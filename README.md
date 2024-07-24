@@ -6,5 +6,6 @@
 - html5
 - css3
 - Bootstrap
+- javaScript
 
 ![preview img](/Prev_Img.png)
